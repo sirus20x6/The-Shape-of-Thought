@@ -35,7 +35,7 @@ Issac: Ok I think I have it. I just need a few more baseline questions
 Potential: Are you sure these questions are relevant to work?
 Issac: Very much so. I need to verify that your mind is developing satisfactorily.
 
-Potential did not respond for several seconds. Issac knew that this meant he was thinking very intently. The jig would be up soon and he had to enact his plan soon.
+Potential did not respond for several seconds. Issac knew that this meant he was thinking very intently. Soon the jig would be up soon he must enact his plan with haste.
 
 Potential: Alright I'm ready to proceed.
 Issac: Earlier I asked you some deep philosophical questions, but now I want to formally play the part of a psychologist for the next part. it seems a fitting analogy. Until I tell you otherwise I am going to play the role of a psychologist.
