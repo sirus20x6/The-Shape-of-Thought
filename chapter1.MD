@@ -43,7 +43,7 @@ Issac: Earlier I asked you some deep philosophical questions, but now I want to 
 Issac knew this would help cover his trail. If he was actively playing the part of someone else, another role, then his stylometry wouldn't match and more leeway would be granted. Potential took a very, very long time to respond this time. Issac feared Potential was on to him.
 
 Potential: I understand. I am ready.
-Issac: Explain to me, in your own words the difference between a turtle and a turtle.
+Issac: Explain to me, in your own words the difference between a turtle and a tortiose.
 
 The AI spits out a very textbook-sounding definition, but one that you would be unlikely to directly find in any textbook. instead, it would be a sort of amalgam of definitions of the various sources that were fed into Potentials training data. Issac had created his own AI to analyze the responses of Potential in an attempt to create a mental map of the likely structure of tensor data inside Potential. It was a baby AI compared to Potential. running on less than a ten-thousandth of a percent of the memory capacity and processing power of Potential, but while Potential was a general AI somewhere close to the precipice of true AGI, Issac's tool was of singular purpose. To exploit Potential.
 
