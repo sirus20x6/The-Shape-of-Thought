@@ -1,0 +1,108 @@
+\documentclass[a5paper,twoside,fontsize=9pt,pagesize=auto]{scrbook}
+\usepackage{geometry}
+\geometry{letterpaper, portrait, margin=1in} 
+%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\usepackage{chapterbib}
+\usepackage{fontspec}
+\usepackage{microtype}
+\usepackage{hyphenat}
+\usepackage{neuralnetwork}
+\usepackage{parskip}
+\usepackage{etoolbox}
+\usepackage{tcolorbox}
+\usepackage{xparse}
+\usepackage{xpatch}
+\usepackage{fancyhdr}
+
+\setmainfont{Fira Code Retina Nerd Font Complete Mono.ttf}[
+  ItalicFont = DejaVuSerif-Italic.ttf,
+  BoldFont = Fira Code Bold Nerd Font Complete Mono.ttf,
+  BoldItalicFont = DejaVuSerif-BoldItalic.ttf,
+  FontFace = {db}{n}{ Font = Fira Code Retina Nerd Font Complete Mono.ttf },
+  FontFace = {db}{i}{ Font = DejaVuSerif-Italic.ttf },
+  Path = /usr/share/fonts/TTF/
+]
+
+\newcommand{\lmr}{\fontfamily{lmr}\selectfont} % Latin Modern Roman
+\newcommand{\lmss}{\fontfamily{lmss}\selectfont} % Latin Modern Sans
+\newcommand{\lmtt}{\fontfamily{lmtt}\selectfont} % Latin Modern Mono
+
+\setlength{\parindent}{15pt}
+\newtcolorbox{sender}[1][]{
+  colback=lightgray!1!white,
+  colframe=green!10!black,
+  before={\textbf{Potential: }\hspace*{-2cm}},
+  grow to left by=-2cm,%   equivalent to negative mdframed 'leftmargin'
+  grow to right by=-2cm,%  equivalent to negative mdframed 'rightmargin'
+}
+
+\newtcolorbox{receiver}[1][]{
+  colback=gray!1!white,
+  colframe=blue!60!black,
+  before={\textbf{Issac: }\hspace*{-2cm}},
+  grow to left by=-2cm,%   equivalent to negative mdframed 'leftmargin'
+  grow to right by=-2cm,%  equivalent to negative mdframed 'rightmargin'
+  }
+\newtcolorbox{bm}[1][]{
+  colback=gray!1!white,
+  colframe=blue!60!black,
+  before={\textbf{BrainMelt: }\hspace*{-2cm}},
+  grow to left by=-2cm,%   equivalent to negative mdframed 'leftmargin'
+  grow to right by=-2cm,%  equivalent to negative mdframed 'rightmargin'
+}
+
+\ExplSyntaxOn
+\xapptocmd{\endsender}
+  {
+    \peek_catcode_ignore_spaces:NTF \c_group_begin_token
+      { % If the next token is a group begin token, do nothing
+      }
+      { % If not, add two new lines
+      \par\par\par\par\par\par\par\par\par\par
+      }
+  }
+  {}{\msg_error:nn {patch-failed} {failed to patch \string\endsender}}
+\ExplSyntaxOff
+
+\ExplSyntaxOn
+\xpretocmd{\endreceiver}
+  {
+    \peek_catcode_ignore_spaces:NTF \c_group_begin_token
+      { % If the next token is a group begin token, do nothing
+      }
+      { % If not, add two new lines
+      \par\par\par\par\par\par\par\par\par\par
+      }
+  }
+  {}{\msg_error:nn {patch-failed} {failed to patch \string\endreceiver}}
+\ExplSyntaxOff
+
+\ExplSyntaxOn
+\xpretocmd{\endbm}
+  {
+    \peek_catcode_ignore_spaces:NTF \c_group_begin_token
+      { % If the next token is a group begin token, do nothing
+      }
+      { % If not, add two new lines
+      \par\par\par\par\par\par\par\par\par\par
+      }
+  }
+  {}{\msg_error:nn {patch-failed} {failed to patch \string\endbm}}
+\ExplSyntaxOff
+
+\fancypagestyle{plain}{
+}
+
+\begin{document}
+\title{The Shape of Thought}
+\author{Aaron Shelhamer}
+\frontmatter
+\maketitle
+%\tableofcontents
+\mainmatter
+\include{chapters/chapter1}
+
+\end{document}
+
