@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1683074785 "chapter1.xdv" "chapter1.pdf" "chapter1" 1683074785 0
-  "chapter1.xdv" 1683074785 350312 ac0447efc4de4b567f2a1c6d1d8009d0 "xelatex"
+["xdvipdfmx"] 1683075081 "chapter1.xdv" "chapter1.pdf" "chapter1" 1683075081 0
+  "chapter1.xdv" 1683075081 350304 41f3159408b5bfd681154778ee00b757 "xelatex"
   (generated)
   "chapter1.pdf"
   (rewritten before read)
-["xelatex"] 1683074784 "/array/code/git/neurodune/chapter1.tex" "chapter1.xdv" "chapter1" 1683074785 0
-  "/array/code/git/neurodune/chapter1.tex" 1683074784 27986 0474704630cb68b562dc50e0524b407d ""
+["xelatex"] 1683075079 "/array/code/git/neurodune/chapter1.tex" "chapter1.xdv" "chapter1" 1683075081 0
+  "/array/code/git/neurodune/chapter1.tex" 1683075079 28007 a6ee1a154289a72d55bc52cda84d7438 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1680514707 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1680514707 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1680514707 1288 655e228510b4c2a1abe905c368440826 ""
@@ -111,8 +111,8 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1680514707 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1680514707 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1683067619 11046064 86442ad9868c1948b04824245382fc2d ""
-  "chapter1.aux" 1683074785 261 579f0b0119a562ca416f8d402b88373e "xelatex"
-  "chapter1.tex" 1683074784 27986 0474704630cb68b562dc50e0524b407d ""
+  "chapter1.aux" 1683075081 261 579f0b0119a562ca416f8d402b88373e "xelatex"
+  "chapter1.tex" 1683075079 28007 a6ee1a154289a72d55bc52cda84d7438 ""
   (generated)
   "chapter1.aux"
   "chapter1.log"

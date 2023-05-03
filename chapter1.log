@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.5.2)  2 MAY 2023 19:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.5.2)  2 MAY 2023 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -685,72 +685,67 @@ Overfull \hbox (30.58694pt too wide) in paragraph at lines 218--218
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 229--229
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 230--230
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 235--235
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 238--238
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 241--241
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 246--246
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 [11]
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 247--247
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 254--254
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (197.18268pt too wide) in paragraph at lines 251--254
-\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/m/n/12 waiting. ring zero access granted \TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Issac:[] 
- []
-
-
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 257--257
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 267--267
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 263--263
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 275--275
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (15.58694pt too wide) in paragraph at lines 264--270
+Overfull \hbox (15.58694pt too wide) in paragraph at lines 277--283
 \TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 [12]
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 276--276
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 291--291
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 279--279
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 295--295
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--287
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 290--290
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 307--307
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (30.58694pt too wide) in paragraph at lines 296--296
+Overfull \hbox (30.58694pt too wide) in paragraph at lines 315--315
 []\TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
 
-Overfull \hbox (15.58694pt too wide) in paragraph at lines 302--306
+Overfull \hbox (15.58694pt too wide) in paragraph at lines 322--326
 \TU/FiraCodeRetinaNerdFontCompleteMono.ttf(0)/b/n/12 Potential:[] 
  []
 
@@ -764,4 +759,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  109i,9n,106p,10653b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on chapter1.xdv (16 pages, 350312 bytes).
+Output written on chapter1.xdv (16 pages, 350304 bytes).
