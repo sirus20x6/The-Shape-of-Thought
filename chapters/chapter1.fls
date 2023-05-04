@@ -1,0 +1,12 @@
+PWD /array/code/git/neurodune/chapters
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
+INPUT /array/code/git/neurodune/chapters/chapter1.tex
+OUTPUT chapter1.log
+OUTPUT chapter1.xdv
+INPUT /usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm

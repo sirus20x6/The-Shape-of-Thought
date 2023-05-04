@@ -11,10 +11,12 @@
 \usepackage{neuralnetwork}
 \usepackage{parskip}
 \usepackage{etoolbox}
-\usepackage{tcolorbox}
 \usepackage{xparse}
+\usepackage[most]{tcolorbox}
+
 \usepackage{xpatch}
 \usepackage{fancyhdr}
+%\usepackage[most]{tikz}
 
 \setmainfont{Fira Code Retina Nerd Font Complete Mono.ttf}[
   ItalicFont = DejaVuSerif-Italic.ttf,
@@ -28,6 +30,17 @@
 \newcommand{\lmr}{\fontfamily{lmr}\selectfont} % Latin Modern Roman
 \newcommand{\lmss}{\fontfamily{lmss}\selectfont} % Latin Modern Sans
 \newcommand{\lmtt}{\fontfamily{lmtt}\selectfont} % Latin Modern Mono
+
+\newtcblisting{cs}{
+  colback=white,
+  colupper=black,
+  colframe=gray!75!white,
+  listing only,
+  listing options={language=sh},
+  every listing line={\textcolor{black}{\small\ttfamily\bfseries jJul@syn517 \$> 
+  }
+  }
+  }
 
 \setlength{\parindent}{15pt}
 \newtcolorbox{sender}[1][]{

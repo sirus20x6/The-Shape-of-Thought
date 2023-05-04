@@ -1,0 +1,20 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "chapter1.xdv" "chapter1.pdf" "chapter1" 0 -1
+  "chapter1.xdv" 1683119963 172 4d473541390011f31fdcd5bc0536d037 "xelatex"
+  (generated)
+  "chapter1.pdf"
+  (rewritten before read)
+["xelatex"] 1683119963 "/array/code/git/neurodune/chapters/chapter1.tex" "chapter1.xdv" "chapter1" 1683119965 2
+  "/array/code/git/neurodune/chapters/chapter1.tex" 1683119961 27701 46d60da49511c9e980d77888294166a7 ""
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1680514707 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm" 1680514707 11868 4f81e9b6033c032bdaf9884f4d7ef412 ""
+  "/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd" 1680514707 1882 28c08db1407ebff35a658fd141753d16 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1680514707 39911 2da6c67557ec033436fe5418a70a8a61 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1683109079 11046062 2fa2f0069281a5babb757228a990bc9d ""
+  "chapter1.aux" 1683119963 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "chapter1.tex" 1683119961 27701 46d60da49511c9e980d77888294166a7 ""
+  (generated)
+  "chapter1.aux"
+  "chapter1.log"
+  "chapter1.xdv"
+  (rewritten before read)
